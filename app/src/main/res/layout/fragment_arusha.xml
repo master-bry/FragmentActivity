@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arusha"
+        android:layout_gravity="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_marginTop="20dp"
+        android:textStyle=""
+        android:text="Arusha City is a Tanzanian city, with a population of 617,631,[1] and the regional capital of the Arusha Region, with a population of 2,356,255 (2022 census).[2]
+
+Located below Mount Meru on the eastern edge of the eastern branch of the Great Rift Valley, Arusha City has a temperate climate. The city is close to the Serengeti National Park, the Ngorongoro Conservation Area, Lake Manyara National Park, Olduvai Gorge, Tarangire National Park, Mount Kilimanjaro, and Mount Meru in the Arusha National Park. " />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Dodoma"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="Dodoma now is officially Dodoma City (Jiji Kuu la Dodoma, in Swahili), is the capital of Tanzania[3] and the administrative capital of both Dodoma Municipal Council and the entire Dodoma Region, with a population of 765,179.[4][3] In 1974, the Tanzanian government announced that Tanzania's federal capital would be moved from Dar es Salaam to Dodoma for social and economic reasons and to centralise the capital within the country. It became the official capital in 1996. " />
+
+</LinearLayout>
