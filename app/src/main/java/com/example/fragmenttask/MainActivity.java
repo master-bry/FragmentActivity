@@ -41,16 +41,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 loadFragment(new Arusha());
-
             }
         });
         //default transaction
         loadFragment(new Arusha());
-
     }
 
     //state transaction
-
     private void loadFragment(Fragment fragment) {
         FragmentManager fragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
